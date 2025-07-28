@@ -13,7 +13,7 @@ This repository reproduces a bug where **fast zooming on mobile devices** causes
 - The map gets stuck in an unusable state
 - Sometimes requires a full page reload to recover
 
-Example video:
+Example video:   
 https://github.com/user-attachments/assets/ac565308-cb4b-41b2-bd8d-a56e7a74d6de
 
 
